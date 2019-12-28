@@ -74,6 +74,7 @@ button{
     border-radius: 25px;
     text-transform: uppercase;
     text-align: left;
+    border-width:0px;
 }
 
 
