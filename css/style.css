@@ -70,14 +70,11 @@ button{
     left: 282px;
     height: 48px;
     width: 238px;
-    background-color: #ffcb06;
+    background-color: #f8ce3c;
     border-radius: 25px;
     text-transform: uppercase;
     text-align: left;
-    border-width:0px;
 }
-
-
 .arrow{
     float: right;
 }
@@ -203,11 +200,6 @@ footer{
     margin-top: 58px ;
     line-height: 30px;
     text-transform: none;
-    
-    
-    
-    
-    
 }
 
 
@@ -223,4 +215,7 @@ footer{
     
 }
 
+.recomendations-list{
+    margin-top: 30px;
+}
     
